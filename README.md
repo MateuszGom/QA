@@ -13,7 +13,7 @@ Environment: PC
 
 Severity: Minor
 
-Steps to reproduce:
+**Steps to reproduce:**
 1. Import the provided save file to a corresponding game folder containing save files (%USERPROFILE%\Saved Games\CD Projekt Red\Cyberpunk 2077)
 2. Launch the title, invoke the "Load Game" sub-menu and load recently added save file named "Gig: MIA"
 3. Notice that
