@@ -22,7 +22,7 @@ When the Player ...
 - (123,456), (123,456), (123,456)
 
 **Reproduction rate:**
-PC (GOG) - 5/5
+- PC (GOG) - 5/5
 
 **Notes:**
 
