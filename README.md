@@ -14,7 +14,7 @@
 
 **Steps to reproduce:**
 1. Import the provided save file to a corresponding game folder containing save files (%USERPROFILE%\Saved Games\CD Projekt Red\Cyberpunk 2077)
-2. Launch the title, invoke the "Load Game" sub-menu and load recently added save file named "Gig: MIA"
+2. Launch the title, invoke the "Load Game" sub-menu and load recently added save file named "ManualSave-47"
 3. Activate "Scan" and execute "Turn Off" hack on the Security Turret located right behind Jason, to avoid being detected
 4. Enter the "Crouch" state, sneak up to Jason and get close enough to trigger his phone call
 5. Stand right behind Jason, use the "Grab" option and then use either "Kill" or "Non-lethal Takedown" Action
