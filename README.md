@@ -1,4 +1,4 @@
-### [Animation] - [NPC] - [Badlands] - Jason Wildriver's phone ringing animation continues even though he is unconscious, if the Player decides to grab the NPC and use either "Kill" or "Non-lethal Takedown" Action
+### [Animation] - [NPC] - [Badlands] - Jason Wildriver's phone calling animation continues even though he is unconscious, if the Player decides to grab the NPC and use either "Kill" or "Non-lethal Takedown" Action
 
 **Priority:** P2 - Medium
 
@@ -19,7 +19,7 @@
 4. Enter the "Crouch" state, sneak up to Jason and get close enough to trigger his phone call
 5. Stand right behind Jason, use the "Grab" option and then use either "Kill" or "Non-lethal Takedown" Action
 6. Observe the Jason's body when he is unconscious
-7. Notice that Jason's phone call animation continues even when he lies on the ground, causing him to suddenly get up and continue talking, despite being unconscious/dead
+7. Notice that Jason's phone calling animation continues even when he lies on the ground, causing him to suddenly get up and continue talking, despite being unconscious/dead
 
 **Expected result:** Performing either "Kill" or "Non-lethal Takedown" Action on Jason should properly interrupt his phone call, and the animation should not play at all when he lies on the ground.
 
