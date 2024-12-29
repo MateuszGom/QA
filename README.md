@@ -12,7 +12,7 @@ Major
 2. B
 3. C
 
-Expected result:
+## Expected result:
 Actual result:
 
 Description:
