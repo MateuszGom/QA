@@ -1,5 +1,4 @@
-### Summary
-[Animation] - [NPC] - [Badlands] - Jason Wildriver's phone ringing animation continues even though he is unconscious, if the Player decides to grab the NPC and use either "Kill" or "Non-lethal Takedown" Action
+**[Animation] - [NPC] - [Badlands] - Jason Wildriver's phone ringing animation continues even though he is unconscious, if the Player decides to grab the NPC and use either "Kill" or "Non-lethal Takedown" Action**
 
 Priority: P2 - Medium
 
@@ -22,7 +21,7 @@ Expected result: ABC
 
 Actual result: ABC
 
-Description:
+### Description:
 When the Player ...
 
 **Coordinates:**
