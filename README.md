@@ -1,16 +1,25 @@
 ### Summary
 [Animation] - [NPC] - [Badlands] - Jason Wildriver's phone ringing animation continues even though he is unconscious, if the Player decides to grab the NPC and use either "Kill" or "Non-lethal Takedown" Action
+
 Priority: P2 - Medium
+
 Components: Animation
+
 Affect Verion/s: 2.2
+
 Tags: Gig, NPC, Badlands, Combat, Gameplay, User Experience
+
 Environment: PC
+
 Severity: Minor
+
 Steps to reproduce:
 1. Import the provided save file to a corresponding game folder containing save files (%USERPROFILE%\Saved Games\CD Projekt Red\Cyberpunk 2077)
 2. Launch the title, invoke the "Load Game" sub-menu and load recently added save file named "Gig: MIA"
 3. Notice that
+
 Expected result: ABC
+
 Actual result: ABC
 
 Description:
