@@ -41,7 +41,7 @@ The issue does not occur when Jason is killed/knocked down after finishing the p
 **Notes:**
 
 Please refer to the provided attachements:
-- [CP-0001-01.mp4](https://drive.google.com/file/d/1S_aJ4GgR-h4PT94rRXkFk9J1PZ0A1Yjk/view?usp=sharing) - is a video file
+- [CP-0001-01.mp4](https://drive.google.com/file/d/1a8uk2BHo9C5Memf75WjsmzCLSCHy2zhE/view?usp=sharing) - is a video file
 - [CP-0001-02.jpg](https://drive.google.com/file/d/1967ke1U1PVIrQ4lnSk5-hL4NMCd-nTzD/view?usp=sharing) - is a screenshot file
 - [CP-0001-03.zip](https://drive.google.com/file/d/1qM8HiFWfZ32UDsU5nUI6YTXvftnHlH1R/view?usp=sharing) - is an archive file containing a save file
 
